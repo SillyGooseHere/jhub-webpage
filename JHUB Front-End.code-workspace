@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"themeInfo.windowTitle": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}FONT: ${font} - THEME: ${theme}",
+		"window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}FONT: 'Monaspace Neon', monospace - THEME: Atom Material Theme"
+	}
+}
